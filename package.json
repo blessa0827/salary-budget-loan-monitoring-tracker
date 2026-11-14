@@ -1,0 +1,10 @@
+{
+  "name": "salary-budget-loan-monitoring-tracker",
+  "private": true,
+  "scripts": {
+    "dev:web": "npm --prefix apps/web run dev",
+    "build:web": "npm --prefix apps/web run build",
+    "start:web": "npm --prefix apps/web run start",
+    "start:mobile": "npm --prefix apps/mobile start"
+  }
+}
